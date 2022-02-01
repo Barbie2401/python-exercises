@@ -1,7 +1,7 @@
 while (True) :
     menu= """
     ---------------------------------------------------------------------------------
-    Bienvenidos a la calculadora de PLATZI:
+    Bienvenidos a la calculadora interactiva:
     
     aquí podras realizar las siguientes operaciones: +,-,*,/: 
     Presiona el numero correspondiente a la operación matematica que deseas realizar:
